@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://rawliq.github.io/test-jumod/annotations/6341735an.json" ],
+  "otherContent" : [ "https://rawliq.github.io/test-jumod/annotations/6341735an.json", "https://rawliq.github.io/test-jumod/annotations/6341736an.json" ],
   "@id" : "https://rawliq.github.io/test-jumod/annotations/collection.json",
   "label" : "All annotations loaded in rawliq/test-jumod project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
