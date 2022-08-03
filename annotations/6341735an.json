@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Annotation1: blabla",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Annotation1: blabla</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/110536027",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-08-03T13:49:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1659534590561",
+    "dcterms:modified" : "2022-08-03T13:49:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/6341733/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=286,621,2046,387"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1389.79745,627.04693c-78.73319,23.61996 -161.18091,31.85606 -242.20022,43.88863c-69.28714,10.29017 -138.75986,19.09439 -208.06462,29.25909c-45.00693,6.60102 -90.13966,11.54566 -134.9169,19.50606c-40.17647,7.14248 -52.61748,9.2016 -97.53029,21.13156c-14.24551,3.78396 -27.98033,9.36333 -42.26312,13.00404c-24.43016,6.22729 -49.75656,8.25145 -74.77322,11.37853c-24.46258,3.05782 -48.73825,8.04997 -73.14772,11.37853c-21.97979,2.99724 -42.42798,5.60402 -63.39469,13.00404c-21.62539,7.63249 -35.8372,22.40776 -53.64166,35.76111c-4.26916,3.20187 -10.10424,3.6737 -14.62954,6.50202c-5.88415,3.6776 -10.23042,9.56139 -16.25505,13.00404c-17.81682,10.18104 -36.90605,18.45303 -55.26716,27.63358c-16.00129,8.00065 -32.55942,11.21822 -26.00808,32.5101c5.46202,17.75155 15.37166,24.38427 30.88459,32.5101c38.21203,20.01582 75.60421,26.61179 118.66185,32.5101c109.98807,15.06686 219.02953,19.50606 329.97748,19.50606c136.5424,0 273.08481,0 409.62721,0c37.38661,0 74.77322,0 112.15983,0c20.55281,0 50.47943,-0.64939 71.52221,1.6255c32.0144,3.46102 63.84342,11.42341 95.90478,14.62954c36.49765,3.64977 73.9242,1.6255 110.53433,1.6255c51.47432,0 102.94864,0 154.42296,0c41.72129,0 83.44258,0 125.16387,0c21.36693,0 43.74788,1.77269 65.02019,0c28.0683,-2.33903 56.75034,-6.58958 84.52625,-11.37853c20.63174,-3.5572 41.10299,-8.02726 61.76918,-11.37853c32.16907,-5.21661 64.30301,-7.63638 95.90478,-16.25505c32.79025,-8.9428 64.32112,-21.71155 97.53029,-29.25909c6.9495,-1.57943 14.21762,-1.52252 21.13156,-3.25101c11.63592,-2.90898 22.75707,-7.58569 34.1356,-11.37853c3.51548,-1.17183 20.39728,-5.47906 22.75707,-11.37853c12.13878,-30.34694 -15.55865,-73.30862 -40.63762,-87.77726c-22.5181,-12.99121 -39.54618,-13.41445 -65.02019,-19.50606c-85.93889,-20.5506 -174.43921,-28.30039 -261.70627,-42.26312c-46.14823,-7.38372 -95.73844,-8.38609 -139.79341,-26.00808c-20.13645,-8.05458 -40.12966,-18.96084 -60.14368,-27.63358c-22.81001,-9.88434 -46.53388,-17.5125 -69.89671,-26.00808c-40.25834,-14.6394 -79.16609,-31.55225 -120.28736,-43.88863c-12.62742,-3.78823 -25.9612,-4.6376 -39.01212,-6.50202c-24.28704,-3.46958 -48.74784,-8.93855 -73.14772,-11.37853c-23.64656,-2.36466 -49.45934,0 -73.14772,0\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_acf985cb-07ae-4740-92ba-ec67aa298976\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-rara.ch/zut/i3f/v20/6341733/canvas/6341735"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Annotation2: blablabal",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em><strong>Annotation2: blablabal</strong></em></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/110536027",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-08-03T13:50:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1659534629757",
+    "dcterms:modified" : "2022-08-03T13:50:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/6341733/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1517,2596,137,127"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1537.1643,2614.70366c12.63149,-10.68123 30.45026,-18.63518 48.35537,-18.62567v0v0c17.90511,0.0095 33.50347,7.45029 48.35537,18.62567c14.8519,11.17538 20.62464,28.2045 20.02945,44.96635c-0.59519,16.76185 -7.55832,33.25643 -20.02945,44.96635c-12.47113,11.70992 -30.45026,18.63518 -48.35537,18.62567c-17.90511,-0.0095 -35.73622,-6.95377 -48.35537,-18.62567c-12.61916,-11.67191 -20.02637,-28.07146 -20.02945,-44.96635c-0.00308,-16.89489 7.39796,-34.28512 20.02945,-44.96635z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_cd34b635-07f9-4131-a5ad-abc437ce8488\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00ff24\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-rara.ch/zut/i3f/v20/6341733/canvas/6341735"
+    } ]
+  } ],
+  "@id" : "https://rawliq.github.io/test-jumod/annotations/6341735an.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
