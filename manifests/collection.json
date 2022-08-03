@@ -1,0 +1,13 @@
+{
+  "id" : "https://rawliq.github.io/test-jumod/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in rawliq/test-jumod project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://rawliq.github.io/test-jumod/manifests/manifest-6341733.json",
+    "label" : "2. Bericht der eidgenössischen Herrn Experten zur Besichtigung der Bernhardiner- und Splügner-Strasse, über deren Zustand im Juli 1840"
+  } ]
+}
