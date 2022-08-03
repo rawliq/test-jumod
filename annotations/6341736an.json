@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "quer",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>quer</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/110536027",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-08-03T13:51:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1659534713673",
+    "dcterms:modified" : "2022-08-03T13:51:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/6341733/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1308,213,241,2409"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1546.27744,228.45916l-83.50491,2393.80739l-154.63872,-24.7422l98.96878,-2375.25074l142.26762,-9.27832l-55.66994,1280.4086v0\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_8bbac027-62ea-41e3-9827-121655cf5fa1\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff00e7\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-rara.ch/zut/i3f/v20/6341733/canvas/6341736"
+    } ]
+  } ],
+  "@id" : "https://rawliq.github.io/test-jumod/annotations/6341736an.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
